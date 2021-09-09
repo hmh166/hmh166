@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hmh166
+- 👋 Hi, I’m Hannah
 - 👀 I’m interested in software development 
 - 🌱 I’m currently majoring in computer science
 - 💞️ I’m looking to collaborate on ...
